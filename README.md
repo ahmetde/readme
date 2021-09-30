@@ -1,3 +1,4 @@
 # readme
 I'm Ahmet Reşat
-I'm Freshman at Bilkent University
+
+I'm a Freshman at Bilkent University
